@@ -1,15 +1,15 @@
 Common Software Design Patterns:
 
 1. Creational Patterns:
-   - Singleton
-   - Factory Method
-   - Abstract Factory
-   - Builder
-   - Prototype
+   - [x] Singleton
+   - [x] Factory Method
+   - [x] Abstract Factory
+   - [x] Builder
+   - [x] Prototype
 
 2. Structural Patterns:
    - Adapter [IMPLEMENTED]
-   - Bridge
+   - [x] Bridge
    - Composite [IMPLEMENTED]
    - Decorator [IMPLEMENTED]
    - Facade [IMPLEMENTED]
