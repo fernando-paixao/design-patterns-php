@@ -1,0 +1,35 @@
+Common Software Design Patterns:
+
+1. Creational Patterns:
+   - Singleton
+   - Factory Method
+   - Abstract Factory
+   - Builder
+   - Prototype
+
+2. Structural Patterns:
+   - Adapter [IMPLEMENTED]
+   - Bridge
+   - Composite [IMPLEMENTED]
+   - Decorator [IMPLEMENTED]
+   - Facade [IMPLEMENTED]
+   - Flyweight [IMPLEMENTED]
+   - Proxy [IMPLEMENTED]
+
+3. Behavioral Patterns:
+   - Chain of Responsibility [IMPLEMENTED]
+   - Command [IMPLEMENTED]
+   - Iterator [IMPLEMENTED]
+   - Mediator [IMPLEMENTED]
+   - [x] Memento
+   - [x] Observer
+   - [x] State
+   - [x] Strategy
+   - [x] Template Method
+   - [x] Visitor
+
+References:
+- Gang of Four (GoF) Design Patterns
+- Strategy Pattern: Encapsulates algorithms into classes
+- Composite Pattern: Represents part-whole hierarchies
+- Flyweight [IMPLEMENTED] Pattern: Optimizes memory usage by sharing state

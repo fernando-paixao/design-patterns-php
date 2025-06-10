@@ -1,0 +1,2 @@
+Can you implement a Adapter on a folder with the same name inside src/
+The code should be be able to run executing an index.php inside it and the dependencies on same folder that you create should be added using require_once
